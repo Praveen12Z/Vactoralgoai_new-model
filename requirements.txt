@@ -1,11 +1,8 @@
-#streamlit
+streamlit
 pandas
-numpy<2
+numpy
 matplotlib
 plotly
 pyyaml
 requests
 scikit-learn
-tensorflow==2.11.0
-
-
