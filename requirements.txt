@@ -7,10 +7,7 @@ matplotlib==3.7.1
 seaborn==0.12.2
 scikit-learn==1.2.2
 scipy==1.10.1
-
-# Deep Learning
-tensorflow==2.11.0
-keras==2.11.0
+ 
 
 # Time series & statistics
 statsmodels==0.13.5
@@ -20,3 +17,4 @@ yfinance==0.2.31
 
 # Utilities
 dill==0.3.7
+
